@@ -2,10 +2,10 @@
 # For:
 fruits = ["apple", "banana", "cherry"]
 for x in fruits:
-  if x == "banana":
-    continue
-  
-  print(x)
+    if x == "banana":
+        continue
+        
+    print(x)
 
 # While
 count = 0
