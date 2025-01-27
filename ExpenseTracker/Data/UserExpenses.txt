@@ -1,0 +1,2 @@
+spended by: sam 	 spended on: Ram 	 Amount:200 
+spended by: sam 	 spended on: pot 	 Amount:500 

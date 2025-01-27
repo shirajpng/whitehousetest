@@ -1,0 +1,10 @@
+Name: Ram  Password: samy 
+
+Name: sam  Password: sam12 
+
+
+spended by: Ram 	 spended on: pot 	 Amount:100 
+spended by: Ram 	 spended on: toma 	 Amount:200 
+spended by: Ram 	 spended on: Ram 	 Amount:100 
+spended by: sam 	 spended on: Ram 	 Amount:200 
+spended by: sam 	 spended on: pot 	 Amount:500 
